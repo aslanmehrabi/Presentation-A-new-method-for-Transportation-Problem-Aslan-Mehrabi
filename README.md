@@ -1,2 +1,5 @@
-# Presentation-A-new-method-for-Transportation-Problem-Aslan-Mehrabi
-A new method for finding an initial solution for Transportation Problem - Aslan Mehrabi
+**Presentation Slides**
+* Title: A new method for finding an initial solution for Transportation Problem
+* By: Aslan Mehrabi, Shahab Shams  
+* Presented at 1st National Conference on Computer Science, Engineering and Information Technology by Aslan Mehrabi
+* Nov 2012
